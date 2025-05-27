@@ -1,1 +1,1 @@
-## Experiment name
+## Spectrometer- Determination of Cauchy's constants

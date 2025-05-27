@@ -2,36 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the Cauchy's equation for refractive index 𝑛?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "n=A+B/λ<sup>2</sup>",
+        "b": "n= A+Bλ",
+        "c": "n = A-Bλ",
+        "d": "n=Aλ<sup>2</sup>+B"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the unit of Cauchy’s constant 𝐵?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "m",
+        "b": "m<sup>2</sup>",
+        "c": "nm",
+        "d": "dimensionless"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why are different wavelengths used in the experiment?",
+      "answers": {
+        "a": "To measure the angle of the prism",
+        "b": "To calculate average deviation",
+        "c": "To observe variation of refractive index with wavelength",
+        "d": "To find the focal length of the telescope"
       },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
