@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the Cauchy's equation for refractive index 𝑛?",
+      "answers": {
+        "a": "n=A+B/λ<sup>2</sup>",
+        "b": "n= A+Bλ",
+        "c": "n = A-Bλ",
+        "d": "n=Aλ<sup>2</sup>+B"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the unit of Cauchy’s constant 𝐵?",
+      "answers": {
+        "a": "m",
+        "b": "m<sup>2</sup>",
+        "c": "nm",
+        "d": "dimensionless"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why are different wavelengths used in the experiment?",
+      "answers": {
+        "a": "To measure the angle of the prism",
+        "b": "To calculate average deviation",
+        "c": "To observe variation of refractive index with wavelength",
+        "d": "To find the focal length of the telescope"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
